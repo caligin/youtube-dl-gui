@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YouTube mp3 extractor
+Comment=UI wrapper around youtube-dl
+Exec="/usr/local/bin/ytdl-gui"
+Terminal=false
+Type=Application
+Icon=emblem-downloads
+Categories=Network;
